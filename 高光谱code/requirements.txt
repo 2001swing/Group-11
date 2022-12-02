@@ -1,0 +1,8 @@
+torch
+numpy
+scikit-image
+Pillow
+Django
+djangorestframework
+scipy
+opencv-python
